@@ -1,4 +1,6 @@
 ## Hi! I'm Vitor
+
+## Trabalho com Suporte (helpdesk) N1 e N2, estudo Redes de Computadores e sou formado em Análise e Desenvolvimento de Sistema
  <div>
   <a href="https://github.com/vitorrcruzz"></a>
 
