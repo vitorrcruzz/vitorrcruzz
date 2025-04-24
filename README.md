@@ -1,6 +1,6 @@
-## Hi! I'm Vitor
+## 👋 Hi! I'm Vitor
 
-## Trabalho com Suporte (helpdesk) N1 e N2, estudo Redes de Computadores e sou formado em Análise e Desenvolvimento de Sistema
+## :computer: Fueling my future with coffee and code.
 
 ### :fire: My Stats :
 
