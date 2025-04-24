@@ -1,13 +1,10 @@
 ## Hi! I'm Vitor
 
 ## Trabalho com Suporte (helpdesk) N1 e N2, estudo Redes de Computadores e sou formado em Análise e Desenvolvimento de Sistema
- <div>
-  <a href="https://github.com/vitorrcruzz"></a>
 
 ### :fire: My Stats :
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=vitorrcruzz&theme=dark)](https://git.io/streak-stats)
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrcruzz&layout=compact&langs_count=16&theme=dark"/>
-</div>
+
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=vitorrcruzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrcruzz&layout=compact&langs_count=16&theme=dark"/>
 
 ---
 
